@@ -1,0 +1,13 @@
+{
+  "name": "shift-jis-api",
+  "version": "1.0.0",
+  "description": "API server with Shift-JIS encoding",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "iconv-lite": "^0.6.3"
+  }
+}
